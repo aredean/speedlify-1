@@ -41,5 +41,8 @@
     "performance-leaderboard": "^9.0.0",
     "short-hash": "^1.0.0",
     "speedlify-score": "^2.0.2"
+  },
+  "devDependencies": {
+    "netlify": "^10.1.2"
   }
 }
